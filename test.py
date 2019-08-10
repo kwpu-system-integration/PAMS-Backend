@@ -3,3 +3,6 @@ def hello_world():
 
 def leejinho();
     return "LeeJinHo"
+
+def kwontaehyoung():
+    return "kwontaehyoung"
