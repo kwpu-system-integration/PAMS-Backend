@@ -6,3 +6,6 @@ def leejinho();
 
 def kwontaehyoung():
     return "kwontaehyoung"
+
+def shinsunho();
+    return "Shinsunho"
