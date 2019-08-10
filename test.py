@@ -9,3 +9,6 @@ def kwontaehyoung():
 
 def shinsunho();
     return "Shinsunho"
+
+def junsanghyuk():
+    return "jungsanghyuk"
