@@ -1,6 +1,7 @@
 #include <stdio.h>
 
 int add(int a, int b);
+int multiple(int a, int b);
 
 int minus(int a, int b){
 	return a-b;
@@ -16,4 +17,7 @@ int main (){
 
 int add(int a, int b){
 	return a+b;
-}	
+}
+int multiple(int a, int b){
+	return a*b;
+}
