@@ -1,3 +1,4 @@
 hello world!
 이진호 신선호 권태형
 정상혁
+EUC-KR로 되어 있네 UTF-8은 안되니?
